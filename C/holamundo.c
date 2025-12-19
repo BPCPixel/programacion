@@ -2,7 +2,7 @@
 
 int main(){
 
-printf("Hola mundo, soy Lalo \n");
+printf("Hola mundo, soy Lalo Tellez\n");
 
   return 0;
 }
